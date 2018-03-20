@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">20180320</string>
+    <string name="calculation">Your calculation...</string>
+    <string name="symbol_delete_output">symbol delete output</string>
+    <string name="c">C</string>
+    <string name="plus">+</string>
+    <string name="symbol_plus">symbol plus</string>
+    <string name="x">x</string>
+    <string name="symbol_multiply">symbol multiply</string>
+    <string name="symbol_divide">symbol divide</string>
+    <string name="divide">÷</string>
+    <string name="symbol_1">symbol 1</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="symbol_2">symbol 2</string>
+    <string name="_3">3</string>
+    <string name="symbol_3">symbol 3</string>
+    <string name="minus">-</string>
+    <string name="symbol_4">Symbol 4</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="symbol_5">Symbol 5</string>
+    <string name="symbol_6">Symbol 6</string>
+    <string name="_6">6</string>
+    <string name="symbol_dot">Symbol dot</string>
+    <string name="dot">.</string>
+    <string name="symbol_7">Symbol 7</string>
+    <string name="_7">7</string>
+    <string name="symbol_8">Symbol 8</string>
+    <string name="_8">8</string>
+    <string name="symbol_9">Symbol 9</string>
+    <string name="_9">9</string>
+    <string name="symbol_0">Symbol 0</string>
+    <string name="_0">0</string>
+</resources>
